@@ -13,24 +13,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.886172
+  saturation: 1
   brandStrength: 0.8743676
-  lightness: 0.9013491
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#d29426'
     - '#e6c47a'
     - '#ae5904'
     - '#d9a580'
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 typography_spectrum: 0.08538
 layout_spectrum: 0.64997
 analytics:
