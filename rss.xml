@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Cookbook]]></title>
         <description><![CDATA[Cookbook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cookbook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 22:37:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 22:59:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cookbook/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinnamon White Russian - Pinch of Yum]]></title>
+            <description><![CDATA[<article><h1>Cinnamon White Russian - Pinch of Yum</h1><p>This post was created in partnership with Absolut. Enjoy responsibly! Tis the season for creamy-sweet Cinnamon White Russians! 🎄 Preferably shared with friends, at a Christmas party, around a tree and a collection of white elephant gifts that will make you laugh until you cry. Or at least that's how we do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/183742a0f7b464efddd472126aadbcc7533d3761.jpg"></article>]]></description>
+            <link>http://pinchofyum.com/cinnamon-white-russian</link>
+            <guid isPermaLink="false">08e0936d-0b91-4935-85d4-c8ec7a4a2c6d</guid>
+            <pubDate>Fri, 08 Jan 2016 22:59:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[fried egg sandwich with bacon and blue cheese]]></title>
-            <description><![CDATA[<article><h1>fried egg sandwich with bacon and blue cheese</h1><p>Due to a delightful clerical error (a scheduled babysitter when we forgot Alex would be home from work), I got to have a weekday lunch with my husband on President's Day. In a restaurant. With linens on the table and no sippy cups in a two-table radius!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd3d18e274119e7ef0c1621f01231496d463d4a2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>fried egg sandwich with bacon and blue cheese</h1><p>Due to a delightful clerical error (a scheduled babysitter when we forgot Alex would be home from work), I got to have a weekday lunch with my husband on President's Day. In a restaurant. With linens on the table and no sippy cups in a two-table radius!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f37eab740acd35a80aa500031cef023f49618f21.jpg"></article>]]></description>
             <link>http://smittenkitchen.com/blog/2012/02/fried-egg-sandwich-with-bacon-and-blue-cheese/</link>
             <guid isPermaLink="false">15f11876-dced-4f14-b67d-1473dfd9d7d7</guid>
             <pubDate>Fri, 08 Jan 2016 22:37:46 GMT</pubDate>
