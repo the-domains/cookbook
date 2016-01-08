@@ -1,8 +1,4 @@
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: Cookbook
 opengraph:
   image: null
   type: null
@@ -22,8 +18,8 @@ collections:
 purpose: []
 color:
   saturation: 0.4983137
-  brandStrength: 0.8743676
   lightness: 0.4915683
+  brandStrength: 0.1526138
   brandColors:
     - '#ffffff'
     - '#d29426'
@@ -32,9 +28,13 @@ color:
     - '#d9a580'
   rhythmicContrast: 0.4932546
 typography_spectrum: 0.08538
-layout_spectrum: 0.64997
 cta:
   bucket: null
   version: null
   domain: null
-name: Cookbook
+layout_spectrum: 0.64997
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
