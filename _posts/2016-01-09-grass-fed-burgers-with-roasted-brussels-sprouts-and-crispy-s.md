@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://bevcooks.com/2015/11/grass-fed-burgers-with-roasted-brussels-sprouts-and-crispy-shallots/'
 title: Grass-Fed Burgers with Roasted Brussels Sprouts and Crispy Shallots
-datePublished: '2016-01-09T13:03:40.506Z'
-dateModified: '2016-01-09T13:03:01.434Z'
+datePublished: '2016-01-09T13:04:49.364Z'
+dateModified: '2016-01-09T07:23:05.197Z'
 sourcePath: _posts/2016-01-09-grass-fed-burgers-with-roasted-brussels-sprouts-and-crispy-s.md
 published: true
 inFeed: true
