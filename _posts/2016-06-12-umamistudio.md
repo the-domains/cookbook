@@ -9,8 +9,8 @@ description: >-
   Curating the best of foodblogs, cookbooks, food photography props and all that
   is umami. If you want your umami link posted here then send your link to
   sunnyreiss@gmail.com
-datePublished: '2016-06-12T19:55:42.704Z'
-dateModified: '2016-06-12T19:55:24.749Z'
+datePublished: '2016-06-12T19:58:22.007Z'
+dateModified: '2016-06-12T19:58:13.662Z'
 title: Umami.studio
 author:
   - name: ''
