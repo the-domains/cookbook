@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[Cookbook]]></title>
         <description><![CDATA[Cookbook]]></description>
-        <link>https://thegrid.ai/cookbook/</link>
+        <link>http://umami.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 18:59:02 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/cookbook/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Seesaiblings-Carpaccio mit Ingwer-Eis]]></title>
-            <description><![CDATA[<article><h1>Seesaiblings-Carpaccio mit Ingwer-Eis</h1><p>Eis im Winter? Was ist denn das schon wieder für eine Idee? Aber wir haben uns dabei schon etwas gedacht :) Denn es handelt sich hier nicht um das klassische Eis, an welches ihr jetzt sicher gerade denkt. Ausserdem, bei diesen Temperaturen wünschen wir uns doch alle irgendwie schon den Frühling herbei, oder?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31e23b68623e3d9c014ef1b16531493f3b548dd4.jpg"></article>]]></description>
-            <link>http://www.youarehungry.com/seesaiblings-carpaccio-mit-ingwer-eis/</link>
-            <guid isPermaLink="false">ba037a52-5bec-4fba-a09d-f6ab4b66f149</guid>
-            <pubDate>Mon, 14 Mar 2016 18:58:28 GMT</pubDate>
-        </item>
+        <lastBuildDate>Sun, 12 Jun 2016 09:40:06 GMT</lastBuildDate>
+        <atom:link href="http://umami.studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Nordic Cookbook]]></title>
             <description><![CDATA[<article><h1>The Nordic Cookbook</h1><p>The Nordic Cookbook: Amazon.de: Magnus Nilsson: Fremdsprachige Bücher</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a756bc518ca97bed47a0956464c0b05a6d7ff90c.jpg"></article>]]></description>
