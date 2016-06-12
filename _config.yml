@@ -1,6 +1,6 @@
 name: Cookbook
 favicon: null
-layout_spectrum: 0.64997
+layout_spectrum: 0.88116
 typography_spectrum: 0.08538
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#e6c47a'
     - '#ae5904'
     - '#d9a580'
-  brandStrength: 0.1526138
+  brandStrength: 0.375
   lightness: 0.4915683
   saturation: 0.4983137
   rhythmicContrast: 0.4932546
