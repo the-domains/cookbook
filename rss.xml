@@ -4,7 +4,7 @@
         <description><![CDATA[Umami Studio]]></description>
         <link>http://umami.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 16:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 17:03:29 GMT</lastBuildDate>
         <atom:link href="http://umami.studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tomato Granita]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.amazon.de/Menu-2017410-Norm-Schale-Durchmesser/dp/B00G48Z156/ref=as_sl_pc_ss_til?tag=cookbook02-21&amp;linkCode=w00&amp;linkId=&amp;creativeASIN=B00G48Z156</link>
             <guid isPermaLink="false">6e9472d7-16c3-4029-a1fb-ec1a3359b537</guid>
             <pubDate>Sun, 12 Jun 2016 11:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wraps, Bumps & Videos]]></title>
+            <description><![CDATA[<article><h1>Wraps, Bumps & Videos</h1><p>© 2016 Green Kitchen Stories Before we get all summery with today's little picnic recipe, we wanted to share a couple of things. #1. This not so small bump is about to give our lives a push into yet another direction - baby nr 3!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e105c86b2426cd3ac6f2ff3e1e3e69fb6fbcd37.jpg"></article>]]></description>
+            <link>http://www.greenkitchenstories.com/summer-wraps-bumps-videos/</link>
+            <guid isPermaLink="false">e8754962-2986-47fc-ab01-cb12345a4110</guid>
+            <pubDate>Sun, 12 Jun 2016 17:03:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chickpea &Spinach Salad]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.crazyforcrust.com/2015/03/no-bake-peanut-butter-chocolate-cream-pie/</link>
             <guid isPermaLink="false">586b9e56-157b-4d4c-bb4d-850c8598fbc4</guid>
             <pubDate>Sat, 09 Jan 2016 13:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grass-Fed Burgers with Roasted Brussels Sprouts and Crispy Shallots]]></title>
-            <description><![CDATA[<article><h1>Grass-Fed Burgers with Roasted Brussels Sprouts and Crispy Shallots</h1><p>Burg, baby, burg. I'm not even entirely sure what I mean there, but let's just roll with it. Can you believe it's THANKSGIVING WEEK? (all caps mandatory) I cannot. Just cannot. We leave in the morning for our our annual trip to Fayetteville, where we'll see frans and fam, but backwards, flipped and reversed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d883e347640421c8d8367eb2512fa8866113e290.jpg"></article>]]></description>
-            <link>http://bevcooks.com/2015/11/grass-fed-burgers-with-roasted-brussels-sprouts-and-crispy-shallots/</link>
-            <guid isPermaLink="false">166e436d-9f47-4ebe-ab18-7041610a341a</guid>
-            <pubDate>Sat, 09 Jan 2016 13:03:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
