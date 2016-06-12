@@ -4,7 +4,7 @@
         <description><![CDATA[Umami Studio]]></description>
         <link>http://umami.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 11:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 16:47:02 GMT</lastBuildDate>
         <atom:link href="http://umami.studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Beautiful porcelain noodle bowl]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.amazon.de/Menu-2017410-Norm-Schale-Durchmesser/dp/B00G48Z156/ref=as_sl_pc_ss_til?tag=cookbook02-21&amp;linkCode=w00&amp;linkId=&amp;creativeASIN=B00G48Z156</link>
             <guid isPermaLink="false">6e9472d7-16c3-4029-a1fb-ec1a3359b537</guid>
             <pubDate>Sun, 12 Jun 2016 11:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burger Benissimo]]></title>
+            <description><![CDATA[<article><h1>Burger Benissimo</h1><p>with pork, pecorino, pesto, aubergine, sun dried tomatos and a tangy herb mayo from the delicious burger cookbook Burger Gold by Martin Kintrup. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77d578cb70a773af1a4cffb704a2104f928cae88.jpg"></article>]]></description>
+            <link>https://www.amazon.de/Burgergold-Martin-Kintrup/dp/3898835278/ref=as_sl_pc_ss_til?tag=cookbook02-21&amp;linkCode=w00&amp;linkId=&amp;creativeASIN=3898835278</link>
+            <guid isPermaLink="false">da112080-45a5-4398-9ec8-9546cc423044</guid>
+            <pubDate>Sun, 12 Jun 2016 16:46:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Nordic Cookbook]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.gatherandfeast.com/super-green-smoothie-bowl</link>
             <guid isPermaLink="false">51b16004-fa9f-4036-9dd1-1ab6ddf50d15</guid>
             <pubDate>Sat, 09 Jan 2016 07:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At The Studio: Dragonfruit Vodka Tonic]]></title>
-            <description><![CDATA[<article><h1>At The Studio: Dragonfruit Vodka Tonic</h1><p>We don't have an elaborate kitchen at the QUITOKEETO studio. There's a sink, a single induction burner, a huge silver champagne bucket (that floods brilliantly with water and ice-packs for "refrigeration"), a stack of cutting boards, and as you can imagine, no shortage of knives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/894ada9e3ecd858ac5249d59cf5e382014b79e4b.jpg"></article>]]></description>
-            <link>http://www.101cookbooks.com/archives/at-the-studio-dragonfruit-vodka-tonic-recipe.html</link>
-            <guid isPermaLink="false">8489d79b-4bb9-4341-a9d9-398ae06dc590</guid>
-            <pubDate>Fri, 08 Jan 2016 22:59:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
