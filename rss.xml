@@ -4,7 +4,7 @@
         <description><![CDATA[Umami Studio]]></description>
         <link>http://umami.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 16:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 16:56:26 GMT</lastBuildDate>
         <atom:link href="http://umami.studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tomato Granita]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.amazon.de/Menu-2017410-Norm-Schale-Durchmesser/dp/B00G48Z156/ref=as_sl_pc_ss_til?tag=cookbook02-21&amp;linkCode=w00&amp;linkId=&amp;creativeASIN=B00G48Z156</link>
             <guid isPermaLink="false">6e9472d7-16c3-4029-a1fb-ec1a3359b537</guid>
             <pubDate>Sun, 12 Jun 2016 11:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chickpea &Spinach Salad]]></title>
+            <description><![CDATA[<article><h1>Chickpea &Spinach Salad</h1><p>This Chickpea and Spinach salad can be found in the vegan oriental cookbook which features many more yummy vegetarian recipes from the middle east and northern Africa by Austrian Iranian Parvin Razavi</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c77cd0f86b676c6c0e38af00bc91b0434a181b11.jpg"></article>]]></description>
+            <link>https://www.amazon.de/Vegan-Oriental-sinnliche-orientalische-K%C3%BCche/dp/3942491370?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3942491370&amp;linkCode=as2&amp;redirect=true&amp;ref_=as_li_tl&amp;tag=cookbook02-21</link>
+            <guid isPermaLink="false">ba9173dd-efa3-4ea4-a6ef-4924260ac2c3</guid>
+            <pubDate>Sun, 12 Jun 2016 16:56:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raw]]></title>
@@ -68,13 +75,6 @@
             <link>http://bevcooks.com/2015/11/grass-fed-burgers-with-roasted-brussels-sprouts-and-crispy-shallots/</link>
             <guid isPermaLink="false">166e436d-9f47-4ebe-ab18-7041610a341a</guid>
             <pubDate>Sat, 09 Jan 2016 13:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[roasted garlic asparagus - The Clever Carrot]]></title>
-            <description><![CDATA[<article><h1>roasted garlic asparagus - The Clever Carrot</h1><p>Ah, yes... asparagus. A sign that Spring has arrived. Certainly the promise of warmer days are on the horizon. Right? Not exactly. Over the weekend, we got blasted with yet another snow storm. On the first day of Spring, no less!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bb20e9c019e7c2a5e3e984d01ef8b93678f4e50.jpg"></article>]]></description>
-            <link>http://www.theclevercarrot.com/2015/03/roasted-garlic-asparagus/</link>
-            <guid isPermaLink="false">398add93-4f7c-44c5-b4a0-9a5c47d24565</guid>
-            <pubDate>Sat, 09 Jan 2016 13:01:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
