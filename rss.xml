@@ -4,7 +4,7 @@
         <description><![CDATA[Umami Studio]]></description>
         <link>http://umami.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 16:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 16:54:50 GMT</lastBuildDate>
         <atom:link href="http://umami.studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tomato Granita]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.amazon.de/Menu-2017410-Norm-Schale-Durchmesser/dp/B00G48Z156/ref=as_sl_pc_ss_til?tag=cookbook02-21&amp;linkCode=w00&amp;linkId=&amp;creativeASIN=B00G48Z156</link>
             <guid isPermaLink="false">6e9472d7-16c3-4029-a1fb-ec1a3359b537</guid>
             <pubDate>Sun, 12 Jun 2016 11:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raw]]></title>
+            <description><![CDATA[<article><h1>Raw</h1><p>Fantastic new raw diet cookbook from a mother and daughter team beautifully illustrated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af0547eca310e2a5b7e7be5f8fb00dbce21cbbbf.jpg"></article>]]></description>
+            <link>https://www.amazon.de/Raw-Recipes-modern-vegetarian-lifestyle/dp/0714871141?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=0714871141&amp;linkCode=as2&amp;redirect=true&amp;ref_=as_li_tl&amp;tag=cookbook02-21</link>
+            <guid isPermaLink="false">20b10a9f-10ce-484f-a46b-e8786dd79ce7</guid>
+            <pubDate>Sun, 12 Jun 2016 16:54:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Burger Benissimo]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theclevercarrot.com/2015/03/roasted-garlic-asparagus/</link>
             <guid isPermaLink="false">398add93-4f7c-44c5-b4a0-9a5c47d24565</guid>
             <pubDate>Sat, 09 Jan 2016 13:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LOCO MOCO - ful-filled]]></title>
-            <description><![CDATA[<article><h1>LOCO MOCO - ful-filled</h1><p>This dish holds a very special place in my heart. Loco moco and I met after I had just graduated high school and was set to spend my summer on the island of Oahu, Hawaii at Surfing the Nations (STN).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48920f0aad91d6829e70f443e54c6bebc6e75665.jpg"></article>]]></description>
-            <link>http://www.ful-filled.com/2016/01/03/loco-moco/</link>
-            <guid isPermaLink="false">408f86bd-dcf7-4ea2-9718-fbc1a338fb2e</guid>
-            <pubDate>Sat, 09 Jan 2016 07:29:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
