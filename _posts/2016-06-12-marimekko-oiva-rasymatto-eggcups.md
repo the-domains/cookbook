@@ -7,12 +7,13 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-12T11:21:50.927Z'
-dateModified: '2016-06-12T11:21:14.560Z'
+datePublished: '2016-06-12T11:23:26.900Z'
+dateModified: '2016-06-12T11:23:09.031Z'
 author:
   - name: ''
     url: ''
 title: Marimekko Oiva Räsymatto Eggcups
+sourcePath: _posts/2016-06-12-marimekko-oiva-rasymatto-eggcups.md
 authors: []
 publisher:
   name: amazon.de
@@ -20,7 +21,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-06-12-marimekko-oiva-rasymatto-eggcups.md
 _context: 'http://schema.org'
 _type: Article
 
