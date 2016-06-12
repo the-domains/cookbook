@@ -1,8 +1,7 @@
 name: Cookbook
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.64997
+typography_spectrum: 0.08538
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4983137
-  lightness: 0.4915683
-  brandStrength: 0.1526138
   brandColors:
     - '#ffffff'
     - '#d29426'
     - '#e6c47a'
     - '#ae5904'
     - '#d9a580'
+  brandStrength: 0.1526138
+  lightness: 0.4915683
+  saturation: 0.4983137
   rhythmicContrast: 0.4932546
-typography_spectrum: 0.08538
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.64997
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
