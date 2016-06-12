@@ -9,8 +9,8 @@ keywords: []
 description: >-
   This beautiful porcelain noodle bowl is available in various colours will add
   a touch of style to your asian cooking.
-datePublished: '2016-06-12T11:47:48.441Z'
-dateModified: '2016-06-12T11:43:29.157Z'
+datePublished: '2016-06-12T20:00:33.177Z'
+dateModified: '2016-06-12T19:52:15.486Z'
 author:
   - name: ''
     url: ''
@@ -24,7 +24,7 @@ publisher:
   domain: www.amazon.de
   url: 'http://www.amazon.com'
   favicon: 'https://www.amazon.de/favicon.ico'
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
