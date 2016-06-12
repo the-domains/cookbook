@@ -1,5 +1,8 @@
+name: Umami Studio
+favicon: null
+layout_spectrum: 0.85347
+typography_spectrum: 0.5197133
 title: Umami Studio
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-79217923-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4983137
-  brandStrength: 0.0625
-  rhythmicContrast: 0.4932546
   brandColors:
     - '#080f18'
     - '#00fbf5'
     - '#0063ce'
     - '#f6faf8'
     - '#9a8c65'
+  brandStrength: 0.0625
   lightness: 0.4915683
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Umami Studio
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5197133
-layout_spectrum: 0.85347
+  saturation: 0.4983137
+  rhythmicContrast: 0.4932546
+purpose: []
