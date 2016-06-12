@@ -7,9 +7,10 @@ inLanguage: null
 keywords: []
 description: >-
   Curating the best of foodblogs, cookbooks, food photography props and all that
-  is umami. If you want your umami link posted here then send your link to 
-datePublished: '2016-06-12T19:52:05.688Z'
-dateModified: '2016-06-12T19:52:02.422Z'
+  is umami. If you want your umami link posted here then send your link to
+  sunnyreiss@gmail.com
+datePublished: '2016-06-12T19:55:09.409Z'
+dateModified: '2016-06-12T19:54:34.687Z'
 title: Umami.studio
 author:
   - name: ''
@@ -23,4 +24,5 @@ _type: MediaObject
 ---
 # Umami.studio
 
-Curating the best of foodblogs, cookbooks, food photography props and all that is umami. If you want your umami link posted here then send your link to ![Curating the best of foodblogs, cookbooks, food photography props and all that is umami. If you want your umami link posted here then send your link to](https://the-grid-user-content.s3-us-west-2.amazonaws.com/412b284f-a6a2-4ca3-b79b-45e9555f1044.jpg)
+Curating the best of foodblogs, cookbooks, food photography props and all that is umami. If you want your umami link posted here then send your link to sunnyreiss@gmail.com
+![Curating the best of foodblogs, cookbooks, food photography props and all that is umami. If you want your umami link posted here then send your link to](https://the-grid-user-content.s3-us-west-2.amazonaws.com/412b284f-a6a2-4ca3-b79b-45e9555f1044.jpg)
