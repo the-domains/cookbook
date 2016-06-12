@@ -4,8 +4,15 @@
         <description><![CDATA[Umami Studio]]></description>
         <link>http://umami.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 16:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 16:49:42 GMT</lastBuildDate>
         <atom:link href="http://umami.studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tomato Granita]]></title>
+            <description><![CDATA[<article><h1>Tomato Granita</h1><p>Sneak preview to The Kitchen Shelf Book. Hmm, I love bloody mary and virgin mary but these tomato granitas from the fantastic cookbook The Kitchen Shelf may just take first place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd207362cf7a54629925df2a86979bb536c2964e.jpg"></article>]]></description>
+            <link>https://www.amazon.de/Kitchen-Shelf-essentials-ingredients-extraordinary/dp/0714871273?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=0714871273&amp;linkCode=as2&amp;redirect=true&amp;ref_=as_li_tl&amp;tag=cookbook02-21</link>
+            <guid isPermaLink="false">7473d357-da83-4ba8-85d6-d2a3af058252</guid>
+            <pubDate>Sun, 12 Jun 2016 16:49:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beautiful porcelain noodle bowl]]></title>
             <description><![CDATA[<article><h1>Beautiful porcelain noodle bowl</h1><p>This beautiful porcelain noodle bowl is available in various colours will add a touch of style to your asian cooking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a290440afaff44ad3e85d6d911b3ac784b0945b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>LOCO MOCO - ful-filled</h1><p>This dish holds a very special place in my heart. Loco moco and I met after I had just graduated high school and was set to spend my summer on the island of Oahu, Hawaii at Surfing the Nations (STN).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48920f0aad91d6829e70f443e54c6bebc6e75665.jpg"></article>]]></description>
             <link>http://www.ful-filled.com/2016/01/03/loco-moco/</link>
             <guid isPermaLink="false">408f86bd-dcf7-4ea2-9718-fbc1a338fb2e</guid>
-            <pubDate>Sat, 09 Jan 2016 07:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super Green Smoothie Bowl]]></title>
-            <description><![CDATA[<article><h1>Super Green Smoothie Bowl</h1><p>FREE Recipe eBook! Join the Gather & Feast community and don't miss a thing! Receive my latest recipes, resources, styling tips and more delivered straight to your email inbox, and download a FREE copy of my recipe eBook "Morning, Noon & Night".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f44129190613578779eff8c6aea7c7e42b6e751.jpg"></article>]]></description>
-            <link>http://www.gatherandfeast.com/super-green-smoothie-bowl</link>
-            <guid isPermaLink="false">51b16004-fa9f-4036-9dd1-1ab6ddf50d15</guid>
             <pubDate>Sat, 09 Jan 2016 07:29:27 GMT</pubDate>
         </item>
     </channel>
