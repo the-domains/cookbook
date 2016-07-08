@@ -4,8 +4,15 @@
         <description><![CDATA[Umami Studio]]></description>
         <link>http://umami.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 05:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 05:23:13 GMT</lastBuildDate>
         <atom:link href="http://umami.studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Umami.studio]]></title>
+            <description><![CDATA[<article><h1>Umami.studio</h1><p>Curating the best of foodblogs, cookbooks, food photography props and all that is umami. If you want your umami link posted here then send your link to sunnyreiss@gmail.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/412b284f-a6a2-4ca3-b79b-45e9555f1044.jpg"></article>]]></description>
+            <link>mailto:sunnyreiss@gmail.com</link>
+            <guid isPermaLink="false">683784e8-c225-465d-b551-8a80f19a6be4</guid>
+            <pubDate>Fri, 08 Jul 2016 05:22:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tomato Granita]]></title>
             <description><![CDATA[<article><h1>Tomato Granita</h1><p>Sneak preview to The Kitchen Shelf Book. Hmm, I love bloody mary and virgin mary but these tomato granitas from the fantastic cookbook The Kitchen Shelf may just take first place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd207362cf7a54629925df2a86979bb536c2964e.jpg"></article>]]></description>
