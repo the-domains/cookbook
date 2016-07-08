@@ -4,7 +4,7 @@
         <description><![CDATA[Umami Studio]]></description>
         <link>http://umami.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 05:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 05:28:02 GMT</lastBuildDate>
         <atom:link href="http://umami.studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Umami.studio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.amazon.de/Kitchen-Shelf-essentials-ingredients-extraordinary/dp/0714871273?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=0714871273&amp;linkCode=as2&amp;redirect=true&amp;ref_=as_li_tl&amp;tag=cookbook02-21</link>
             <guid isPermaLink="false">7473d357-da83-4ba8-85d6-d2a3af058252</guid>
             <pubDate>Sun, 12 Jun 2016 16:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playhouse School Play]]></title>
+            <description><![CDATA[<article><h1>Playhouse School Play</h1><p>My daughter took part in a school play for Playhouse.at, which was titled Input Output. The children analysed in real time the internal and external effect the Internet has on them. It was very interesting and in a beautiful setting. Thanks to the producer Florian Drexler.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fe984ac-42ec-405c-bfc4-36d51d46b459.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fe984ac-42ec-405c-bfc4-36d51d46b459.jpg</link>
+            <guid isPermaLink="false">797614d3-060e-44d0-9b2b-74727ee09082</guid>
+            <pubDate>Fri, 08 Jul 2016 05:27:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boiled Egg]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.amazon.de/Burgergold-Martin-Kintrup/dp/3898835278/ref=as_sl_pc_ss_til?tag=cookbook02-21&amp;linkCode=w00&amp;linkId=&amp;creativeASIN=3898835278</link>
             <guid isPermaLink="false">da112080-45a5-4398-9ec8-9546cc423044</guid>
             <pubDate>Sun, 12 Jun 2016 16:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Nordic Cookbook]]></title>
-            <description><![CDATA[<article><h1>The Nordic Cookbook</h1><p>The Nordic Cookbook: Amazon.de: Magnus Nilsson: Fremdsprachige Bücher</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a756bc518ca97bed47a0956464c0b05a6d7ff90c.jpg"></article>]]></description>
-            <link>http://www.amazon.de/gp/product/0714868728/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=0714868728&amp;linkCode=as2&amp;tag=cookbook02-21</link>
-            <guid isPermaLink="false">7bc2cfcc-87bf-4b04-85b4-ced3f77892a0</guid>
-            <pubDate>Mon, 14 Mar 2016 18:48:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
